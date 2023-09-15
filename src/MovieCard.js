@@ -7,6 +7,12 @@ function MovieCard({ movie }) {
       <img src={movie.posterURL} alt={movie.title} />
       <h3>{movie.title}</h3>
       <p>{movie.description}</p>
+      <p>{movie.réalisateur}</p>
+      <p>{movie.dateDeSortieInitiale}</p>
+      <p>{movie.trailerLink}</p>
+
+
+
       <p>Rating: {movie.rating}</p>
     </div>
   );
