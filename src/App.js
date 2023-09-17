@@ -9,7 +9,7 @@ function App() {
   const [movies, setMovies] = useState([
     {
       title: 'Enola Holmes',
-      description: 'Angleterre, 1884. Le matin de son 16e anniversaire, Enola constate que sa mère a disparu. Après avoir vécu une existence assez libre jusque-là, elle se retrouve sous la tutelle de ses frères Sherlock et Mycroft, tous deux décidés à lenvoyer dans une école convenable pour les jeunes femmes de son rang.',
+      description: 'Angleterre, 1885. Le matin de son 16e anniversaire, Enola constate que sa mère a disparu. Après avoir vécu une existence assez libre jusque-là, elle se retrouve sous la tutelle de ses frères Sherlock et Mycroft, tous deux décidés à lenvoyer dans une école convenable pour les jeunes femmes de son rang.',
       posterURL: '/jjjjj.png',
       réalisateur: 'Harry Bradbeer',
       trailerLink: "https://www.youtube.com/watch?v=1d0Zf9sXlHk",
@@ -20,7 +20,7 @@ function App() {
       title: 'The Matrix',
       description: 'Programmeur anonyme dans un service administratif le jour, Thomas Anderson devient Neo la nuit venue. Sous ce pseudonyme, il est l\'un des pirates les plus recherchés du cyber-espace. À cheval entre deux mondes, Neo est assailli par d\'étranges songes et des messages cryptés provenant d\'un certain Morpheus. Celui-ci l\'exhorte à aller au-delà des apparences et à trouver la réponse à la question qui hante constamment ses pensées : qu\'est-ce que la Matrice ?',
       posterURL: '/hhhh.png',
-      dateDeSortie: '31 mars 1999 (États-Unis)',
+      dateDeSortie: '31 mars 1998 (États-Unis)',
       trailerLink: "https://www.youtube.com/watch?v=vKQi3bBA1y8",
 
       rating: 3,
